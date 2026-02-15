@@ -54,8 +54,14 @@ Data Types:
 - forecasts/
 
 ### Database (PostgreSQL)
+- households table
+- meter_readings table
+- solar_generation table
+- weather_data table
+- forecasts table
+- allocations table
 
-
+---
 
 ## 4. AI Layer Design
 
